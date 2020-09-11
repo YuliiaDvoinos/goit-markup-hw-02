@@ -17,7 +17,9 @@ body {
 .our-qualities-list,
 .our-tasks-list,
 .our-team-list,
-.webstudio-footer-list {
+.webstudio-footer-list,
+.portfolio-footer-list,
+.portfolio-nav-adress-list {
   list-style-type: none;
 }
 .nav-list-element-1,
@@ -132,7 +134,8 @@ body {
   line-height: 19px;
   color: #757575;
 }
-.webstudio-footer {
+.webstudio-footer,
+.portfolio-footer {
   background: #2f303a;
 }
 .maps-location {
@@ -149,4 +152,29 @@ body {
   font-size: 14px;
   line-height: 24px;
   color: rgba(255, 255, 255, 0.6);
+}
+.potfolio-body {
+  font-family: "roboto", sans-serif;
+}
+.portfolio-header {
+  background: #ffffff;
+}
+.portfolio-nav-list-element-1,
+.portfolio-nav-list-element-3 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #212121;
+}
+.portfolio-nav-list-element-2 {
+  color: #2196f3;
+}
+.portfolio-mail-address-webstudio,
+.portfolio-tel-address-webstudio {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #757575;
 }
