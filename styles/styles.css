@@ -16,7 +16,8 @@ body {
 .nav-adress-list,
 .our-qualities-list,
 .our-tasks-list,
-.our-team-list {
+.our-team-list,
+.webstudio-footer-list {
   list-style-type: none;
 }
 .nav-list-element-1,
@@ -130,4 +131,22 @@ body {
   font-size: 16px;
   line-height: 19px;
   color: #757575;
+}
+.webstudio-footer {
+  background: #2f303a;
+}
+.maps-location {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+}
+.mail-address-info,
+.tel-address-webstudio {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: rgba(255, 255, 255, 0.6);
 }
