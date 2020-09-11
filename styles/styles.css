@@ -1,7 +1,11 @@
 body {
   font-family: "roboto", sans-serif;
 }
+.main-file-header {
+  background: #ffffff;
+}
 .logo-text {
+  text-decoration: none;
   font-family: Raleway;
   font-style: normal;
   font-weight: bold;
@@ -27,6 +31,7 @@ body {
 .nav-list-element-1,
 .nav-list-element-2,
 .nav-list-element-3 {
+  text-decoration: none;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -43,8 +48,10 @@ body {
   font-size: 14px;
   line-height: 16px;
   color: #2196f3;
+  text-decoration: none;
 }
 .tel-address-webstudio {
+  text-decoration: none;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -141,6 +148,7 @@ body {
   background: #2f303a;
 }
 .maps-location {
+  text-decoration: none;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -149,6 +157,7 @@ body {
 }
 .mail-address-info,
 .tel-address-webstudio {
+  text-decoration: none;
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -163,6 +172,7 @@ body {
 }
 .portfolio-nav-list-element-1,
 .portfolio-nav-list-element-3 {
+  text-decoration: none;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -170,10 +180,12 @@ body {
   color: #212121;
 }
 .portfolio-nav-list-element-2 {
+  text-decoration: none;
   color: #2196f3;
 }
 .portfolio-mail-address-webstudio,
 .portfolio-tel-address-webstudio {
+  text-decoration: none;
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
@@ -207,6 +219,7 @@ body {
   color: #212121;
 }
 .portfolio-main-section-list-links {
+  text-decoration: none;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
