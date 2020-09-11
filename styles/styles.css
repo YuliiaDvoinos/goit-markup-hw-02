@@ -1,0 +1,68 @@
+body {
+  font-family: "roboto", sans-serif;
+}
+.logo-text {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 31px;
+  color: #000000;
+}
+.logo-part {
+  color: #2196f3;
+}
+.nav-list {
+  list-style-type: none;
+}
+.nav-list-element-1,
+.nav-list-element-2,
+.nav-list-element-3 {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #212121;
+}
+.nav-list-element-1 {
+  color: #2196f3;
+}
+.nav-adress-list {
+  list-style-type: none;
+}
+.mail-address-webstudio {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #2196f3;
+}
+.tel-address-webstudio {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 16px;
+  color: #757575;
+}
+.section-with-button {
+  background: #2f303a;
+}
+.our-slogan {
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.button-to-order-servise {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 30px;
+  background: #2196f3;
+}
+.button-to-order-servise-text {
+  color: #ffffff;
+}
