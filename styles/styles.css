@@ -19,7 +19,9 @@ body {
 .our-team-list,
 .webstudio-footer-list,
 .portfolio-footer-list,
-.portfolio-nav-adress-list {
+.portfolio-nav-adress-list,
+.portfolio-main-section-list-with-buttons,
+.portfolio-main-section-list-with-pictures {
   list-style-type: none;
 }
 .nav-list-element-1,
@@ -176,5 +178,38 @@ body {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
+  color: #757575;
+}
+.portfolio-main-section {
+  background: #ffffff;
+}
+.portfolio-main-section-button {
+  background: #f5f4fa;
+  border-radius: 4px;
+}
+.portfolio-main-section-button-blue {
+  background: #2196f3;
+  border-radius: 4px;
+}
+.portfolio-main-section-buttons-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #212121;
+  text-align: center;
+}
+.portfolio-main-section-pictures-description {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 36px;
+  color: #212121;
+}
+.portfolio-main-section-list-links {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 30px;
   color: #757575;
 }
