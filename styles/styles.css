@@ -50,13 +50,13 @@ body {
   color: #2196f3;
   text-decoration: none;
 }
-.tel-address-webstudio {
-  text-decoration: none;
+.tel-address-webstudio-header {
   font-style: normal;
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
   color: #757575;
+  text-decoration: none;
 }
 .section-with-button {
   background: #2f303a;
