@@ -12,7 +12,11 @@ body {
 .logo-part {
   color: #2196f3;
 }
-.nav-list {
+.nav-list,
+.nav-adress-list,
+.our-qualities-list,
+.our-tasks-list,
+.our-team-list {
   list-style-type: none;
 }
 .nav-list-element-1,
@@ -27,9 +31,7 @@ body {
 .nav-list-element-1 {
   color: #2196f3;
 }
-.nav-adress-list {
-  list-style-type: none;
-}
+
 .mail-address-webstudio {
   font-style: normal;
   font-weight: 500;
@@ -65,4 +67,67 @@ body {
 }
 .button-to-order-servise-text {
   color: #ffffff;
+}
+.section-our-qualities {
+  background: #ffffff;
+}
+
+.our-qualities-list-caption {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 16px;
+  color: #212121;
+}
+.our-qualities-list-description {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  color: #757575;
+}
+.section-our-tasks {
+  background: #ffffff;
+}
+.our-tasks-caption {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #212121;
+}
+
+.our-tasks-pictures {
+  width: 370px;
+  height: 294px;
+}
+.section-our-team {
+  background: #f5f4fa;
+}
+.section-our-team-caption {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  text-align: center;
+  color: #212121;
+}
+.our-team-list-pictures {
+  width: 270px;
+  height: 260px;
+}
+.our-team-names {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  color: #212121;
+}
+.our-team-positions {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  color: #757575;
 }
